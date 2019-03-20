@@ -72,3 +72,8 @@
 
 * [Sparse Adversarial Perturbations for Videos](https://www.aaai.org/Papers/AAAI/2019/AAAI-WeiX.2649.pdf)
     * Computing adversarial perturbations for key frames in a video and interpolating across the frames in between. Sparse means "temporally sparse".
+    
+#### Possible Other Papers
+
+* [Compiling Markov chain Monte Carlo algorithms for probabilistic modeling](http://www.cs.cornell.edu/~jgm/papers/pldi17.pdf)
+    * PLDI'17 (Did we already read this paper?)
