@@ -12,12 +12,12 @@
     <td> n/a </td>
   </tr>
   <tr>
-    <td> TBD </td>
+    <td> April 2 </td>
     <td> TBD </td>
     <td> TBD </td>
   </tr>
   <tr>
-    <td> TBD </td>
+    <td> April 9 </td>
     <td> TBD </td>
     <td> TBD </td>
   </tr>
