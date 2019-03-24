@@ -2,14 +2,14 @@
 
 <table>
   <tr>
-    <th> Date </th>
+    <th width="100"> Date </th>
     <th> Paper </th>
     <th> Presenter </th>
   </tr>
   <tr>
-    <td> TBD </td>
-    <td> TBD </td>
-    <td> TBD </td>
+    <td> March 26 </td>
+    <td> Formal Verification of Higher-Order Probabilistic Programs (https://dl.acm.org/ft_gateway.cfm?id=3290351) </td>
+    <td> n/a </td>
   </tr>
   <tr>
     <td> TBD </td>
