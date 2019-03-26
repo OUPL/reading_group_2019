@@ -23,6 +23,7 @@
   </tr>
 </table>
 
+QBS paper: [A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/pdf/1701.02547.pdf).
 
 #### Possible POPL19 papers (in no particular order):
 
