@@ -18,8 +18,8 @@
   </tr>
   <tr>
     <td> April 9 </td>
-    <td> TBD </td>
-    <td> TBD </td>
+    <td> Pretend Synchrony (https://dl.acm.org/ft_gateway.cfm?id=3290372) </td>
+    <td> Robin </td>
   </tr>
 </table>
 
