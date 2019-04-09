@@ -30,9 +30,6 @@ QBS paper: [A Convenient Category for Higher-Order Probability Theory](https://a
 * [An Abstract Domain for Certifying Neural Networks](https://dl.acm.org/ft_gateway.cfm?id=3290354)
     * Abstract interpretation of neural networks.
 
-* [Pretend Synchrony](https://dl.acm.org/ft_gateway.cfm?id=3290372)
-    * Verifying asynchronous distributed programs by treating them as regular synchronous programs and verifying with Floyd-Hoare logic and SMT.
-
 * [A Separation Logic for Concurrent Randomized Programs](https://dl.acm.org/ft_gateway.cfm?id=3290377)
     * Based on / extends the idea of coupling.
 
