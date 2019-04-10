@@ -21,6 +21,16 @@
     <td> Pretend Synchrony (https://dl.acm.org/ft_gateway.cfm?id=3290372) </td>
     <td> Robin </td>
   </tr>
+  <tr>
+    <td> April 16 1:30pm </td>
+    <td> [A Domain Theory for Statistical Probabilistic Programming](https://dl.acm.org/ft_gateway.cfm?id=3290349) </td>
+    <td> Nathan </td>
+  </tr>
+  <tr>
+    <td> April 16 1:30pm </td>
+    <td> [An Abstract Domain for Certifying Neural Networks](https://dl.acm.org/ft_gateway.cfm?id=3290354) </td>
+    <td> Nathan </td>
+  </tr>
 </table>
 
 QBS paper: [A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/pdf/1701.02547.pdf).
