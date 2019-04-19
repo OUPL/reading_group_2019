@@ -23,8 +23,13 @@
   </tr>
   <tr>
     <td> April 16 1:30pm </td>
-    <td> [A Domain Theory for Statistical Probabilistic Programming](https://dl.acm.org/ft_gateway.cfm?id=3290349) </td>
+    <td> A Domain Theory for Statistical Probabilistic Programming (https://dl.acm.org/ft_gateway.cfm?id=3290349) </td>
     <td> Nathan </td>
+  </tr>
+    <tr>
+    <td> April 23 1:30pm </td>
+    <td> On Testing of Uniform Samplers (https://www.aaai.org/Papers/AAAI/2019/AAAI-ChakrabortySourav.652.pdf) </td>
+    <td> David </td>
   </tr>
 </table>
 
@@ -52,9 +57,6 @@ QBS paper: [A Convenient Category for Higher-Order Probability Theory](https://a
 
 * [Distributionally Adversarial Attack](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhengTianhang.602.pdf)
     * Solving for optimal "adversarial-data distribution", a square-norm constrained deviation from the original distribution that maximally increases generalization risk. 
-
-* [On Testing of Uniform Samplers](https://www.aaai.org/Papers/AAAI/2019/AAAI-ChakrabortySourav.652.pdf)
-    * Testing uniformity of samplers with a small number of samples.
 
 
 ##### Less relevant but maybe interesting (also AAAI-19):
