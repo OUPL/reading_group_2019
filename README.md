@@ -31,6 +31,12 @@
     <td> On Testing of Uniform Samplers (https://www.aaai.org/Papers/AAAI/2019/AAAI-ChakrabortySourav.652.pdf) </td>
     <td> David </td>
   </tr>
+  </tr>
+    <tr>
+    <td> April 30 1:30pm </td>
+    <td> Consensus in Opinion Formation Processes in Fully Evolving Environments (https://www.aaai.org/Papers/AAAI/2019/AAAI-AulettaV.6390.pdf) </td>
+    <td> Tim </td>
+  </tr>
 </table>
 
 QBS paper: [A Convenient Category for Higher-Order Probability Theory](https://arxiv.org/pdf/1701.02547.pdf).
@@ -60,9 +66,6 @@ QBS paper: [A Convenient Category for Higher-Order Probability Theory](https://a
 
 
 ##### Less relevant but maybe interesting (also AAAI-19):
-
-* [Consensus in Opinion Formation Processes in Fully Evolving Environments](https://www.aaai.org/Papers/AAAI/2019/AAAI-AulettaV.6390.pdf)
-    * Convergence of opinion formation in social networks in which the structure of the social graph, agents' stubbornness levels, and their innate beliefs can change over time (influenced by one another).
 
 * [Compiling Bayesian Network Classifiers into Decision Graphs](https://www.aaai.org/Papers/AAAI/2019/AAAI-ShihA.4035.pdf)
     * Decision graphs are small thus amenable to tractable formal verification.
